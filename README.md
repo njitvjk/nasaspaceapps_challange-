@@ -8,10 +8,10 @@ Please allow few seconds for some of the widgets in the site to show
 https://kv3323.wixsite.com/weather-partner
 
 ## References
-### https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder/find-data#temperature![image]                
-### Floods Data Pathfinder - Find Data | Earthdata (nasa.gov)![image]
+https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder/find-data#temperature![image]                
+Floods Data Pathfinder - Find Data | Earthdata (nasa.gov)![image]
 
-### Google Maps 
+Google Maps 
 
 ### Citations: 
 WIX website builder – website prototype 
