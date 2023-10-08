@@ -4,7 +4,7 @@
 
 
 ## video demo
-https://youtu.be/Frk8oJgkt5A
+[https://youtu.be/Frk8oJgkt5A](https://www.youtube.com/watch?v=Frk8oJgkt5A)
 
 ##  Prototype 
 Works both in Mobile and desktop 
