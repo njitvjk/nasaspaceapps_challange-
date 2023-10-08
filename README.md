@@ -25,7 +25,7 @@ Google Maps <br/>
 https://Sigbi.org <br/>
 https://Digital.osl.state.or.us <br/>
 
-### Slides 
+### Images for Slides 
 Nasa.gov <br/>
 for news article -Wired.com, the conversations, Indian express
 
