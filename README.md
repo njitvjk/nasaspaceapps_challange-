@@ -31,7 +31,7 @@ Nasa.gov <br/>
 for news article -Wired.com, the conversations, Indian express
 
 ### AI- none 
-Wesite screen shots :
+## Website screen shots :
 ![image](https://github.com/njitvjk/nasaspaceapps_challenge/assets/90334123/2572173b-8cb5-4a59-80be-a46a0b7e6e5e)
 ![image](https://github.com/njitvjk/nasaspaceapps_challenge/assets/90334123/af8ef8ef-8eee-46e6-b650-e9924b464bfb)
 ![image](https://github.com/njitvjk/nasaspaceapps_challenge/assets/90334123/3ff9d3bd-a152-4de1-a3c7-287a10695ad0)
