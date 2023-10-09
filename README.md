@@ -7,7 +7,7 @@
 ## video demo
 [https://youtu.be/Frk8oJgkt5A](https://www.youtube.com/watch?v=Frk8oJgkt5A)
 
-##  Prototype 
+##  Website Prototype 
 Works both in Mobile and desktop 
 Please allow few seconds for some of the widgets in the site to show 
 https://kv3323.wixsite.com/weather-partner
