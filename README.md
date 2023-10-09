@@ -1,6 +1,7 @@
 # nasaspaceapps_challenge
 ## Slide presentation
-[nasa_space_app_challenge .pptx](https://github.com/njitvjk/nasaspaceapps_challenge/files/12842121/nasa_space_app_challenge.pptx)
+[nasa_space_app_challenge.pptx](https://github.com/njitvjk/nasaspaceapps_challenge/files/12842123/nasa_space_app_challenge.pptx)
+
 
 
 ## video demo
